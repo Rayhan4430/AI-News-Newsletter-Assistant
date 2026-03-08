@@ -1,0 +1,17 @@
+#隐私信息
+.env
+config.ini
+seen_links.json
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境目录（如果有的话）
+venv/
+env/
+.venv/
+
+# IDE 配置文件
+.idea/
+.vscode/

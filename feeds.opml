@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>AI News</title>
+        <dateCreated>Sun, 08 Mar 2026 13:00:00 +0800</dateCreated>
+    </head>
+    <body>
+        <outline text="北美媒体 (North America)" title="北美媒体 (North America)">
+            <outline text="纽约时报国际版 (NYT - World)" title="纽约时报国际版 (NYT - World)" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" htmlUrl="https://www.nytimes.com/section/world"/>
+            <outline text="CNN 国际新闻 (CNN World)" title="CNN 国际新闻 (CNN World)" type="rss" xmlUrl="http://rss.cnn.com/rss/edition_world.rss" htmlUrl="https://edition.cnn.com/world"/>
+            <outline text="华盛顿邮报 (Washington Post - World)" title="华盛顿邮报 (Washington Post - World)" type="rss" xmlUrl="https://feeds.washingtonpost.com/rss/world" htmlUrl="https://www.washingtonpost.com/world/"/>
+        </outline>
+
+        <outline text="欧洲媒体 (Europe)" title="欧洲媒体 (Europe)">
+            <outline text="BBC 国际新闻 (BBC News - World)" title="BBC 国际新闻 (BBC News - World)" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="https://www.bbc.com/news/world"/>
+            <outline text="英国卫报 (The Guardian - World)" title="英国卫报 (The Guardian - World)" type="rss" xmlUrl="https://www.theguardian.com/world/rss" htmlUrl="https://www.theguardian.com/world"/>
+            <outline text="法国24小时 (France 24)" title="法国24小时 (France 24)" type="rss" xmlUrl="https://www.france24.com/en/rss" htmlUrl="https://www.france24.com/en/"/>
+            <outline text="德国之声 (Deutsche Welle - World)" title="德国之声 (Deutsche Welle - World)" type="rss" xmlUrl="https://rss.dw.com/rdf/rss-en-world" htmlUrl="https://www.dw.com/en/top-stories/world/s-1429"/>
+        </outline>
+
+        <outline text="亚洲及中东媒体 (Asia &amp; Middle East)" title="亚洲及中东媒体 (Asia &amp; Middle East)">
+            <outline text="半岛电视台 (Al Jazeera)" title="半岛电视台 (Al Jazeera)" type="rss" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml" htmlUrl="https://www.aljazeera.com"/>
+            <outline text="南华早报 (SCMP - World)" title="南华早报 (SCMP - World)" type="rss" xmlUrl="https://www.scmp.com/rss/91/feed" htmlUrl="https://www.scmp.com/news/world"/>
+            <outline text="亚洲新闻台 (CNA - World)" title="亚洲新闻台 (CNA - World)" type="rss" xmlUrl="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml" htmlUrl="https://www.channelnewsasia.com/world"/>
+            <outline text="日本放送协会 (NHK World)" title="日本放送协会 (NHK World)" type="rss" xmlUrl="https://www3.nhk.or.jp/rj/podcast/rss/english.xml" htmlUrl="https://www3.nhk.or.jp/nhkworld/"/>
+        </outline>
+
+        <outline text="财经与综合 (Finance &amp; General)" title="财经与综合 (Finance &amp; General)">
+            <outline text="金融时报 (Financial Times)" title="金融时报 (Financial Times)" type="rss" xmlUrl="https://www.ft.com/?format=rss" htmlUrl="https://www.ft.com"/>
+            <outline text="CNBC 国际财经 (CNBC International)" title="CNBC 国际财经 (CNBC International)" type="rss" xmlUrl="https://www.cnbc.com/id/100727362/device/rss/rss.html" htmlUrl="https://www.cnbc.com/world/"/>
+        </outline>
+    </body>
+</opml>
